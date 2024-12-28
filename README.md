@@ -6,7 +6,7 @@ This repository contains resources and insights from the project *"Revolutionizi
 ## Contents
 
 - [Presentation](https://docs.google.com/presentation/d/1ZUV_NyUDPdGI7xFwjM39K9dHdOnP9JZdzdFQhZPyP3M/edit?usp=sharing): The detailed presentation highlighting the role of LLMs in each phase of software engineering.
-- [Research Paper]() : A link to the complete research paper which 
+- [Research Paper](https://github.com/ragini-kalvade/Impact-of-LLM-in-SE/blob/main/Revolutionizing%20SE%20with%20LLMs_%20%20Impacts%20Across%20the%20Development%20Lifecycle.pdf) : A link to the complete research paper which 
 - [References](#references): A list of tools and studies cited in the project.
 
 ## Key Highlights
