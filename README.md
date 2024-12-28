@@ -1,12 +1,12 @@
 # Revolutionizing Software Engineering with Large Language Models: Impacts Across the Development Lifecycle
 
 ## Overview
-This repository contains resources and insights from the project *"Revolutionizing Software Engineering with Large Language Models: Impacts Across the Development Lifecycle"*. The project examines the transformative effects of Large Language Models (LLMs) on various stages of the software development process, from requirement analysis to testing and code review.
+This repository contains resources and insights from the project *"Revolutionizing Software Engineering with Large Language Models: Impacts Across the Development Lifecycle"*. The paper examines the transformative effects of Large Language Models (LLMs) on various stages of the software development process, from requirement analysis to testing and code review.
 
 ## Contents
 
-- [Presentation](https://docs.google.com/presentation/d/1ZUV_NyUDPdGI7xFwjM39K9dHdOnP9JZdzdFQhZPyP3M/edit?usp=sharing): The detailed presentation highlighting the role of LLMs in each phase of software engineering.
-- [Research Paper](https://github.com/ragini-kalvade/Impact-of-LLM-in-SE/blob/main/Revolutionizing%20SE%20with%20LLMs_%20%20Impacts%20Across%20the%20Development%20Lifecycle.pdf) : A link to the complete research paper which 
+- [Presentation](https://docs.google.com/presentation/d/1ZUV_NyUDPdGI7xFwjM39K9dHdOnP9JZdzdFQhZPyP3M/edit?usp=sharing): Presentation highlighting the role of LLMs in each phase of software engineering.
+- [Research Paper](https://github.com/ragini-kalvade/Impact-of-LLM-in-SE/blob/main/Revolutionizing%20SE%20with%20LLMs_%20%20Impacts%20Across%20the%20Development%20Lifecycle.pdf) :  A comprehensive analysis of LLM impacts across the software development lifecycle.
 - [References](#references): A list of tools and studies cited in the project.
 
 ## Key Highlights
@@ -55,7 +55,7 @@ This repository contains resources and insights from the project *"Revolutionizi
 - Further readings from IEEE Transactions on Software Engineering and other publications.
   
 ## Insights
-This project illuminated the transformative potential of LLMs in software engineering, particularly their ability to automate repetitive tasks and enhance decision-making. However, it also highlighted the ethical and skill-related challenges posed by their adoption. Future work will focus on balancing automation with skill development and addressing bias in LLM outputs.
+This paper illuminated the transformative potential of LLMs in software engineering, particularly their ability to automate repetitive tasks and enhance decision-making. However, it also highlighted the ethical and skill-related challenges posed by their adoption. Future work will focus on balancing automation with skill development and addressing bias in LLM outputs.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
