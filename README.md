@@ -64,4 +64,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contributions are welcome! Feel free to submit issues or pull requests for improvements and further discussions.
 
 ## Contact
-For more details, contact Ragini Kalvade at <rkalv@uic.edu> University of Illinois at Chicago.
+For more details, contact Ragini Kalvade at <rkalv@uic.edu>, University of Illinois at Chicago.
